@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#-principais-bibliotecas">Principais Bibliotecas</a>
+  <a href="#-Para-executar-o-projeto">Para executar o projeto</a>
 </p>
 
 <br>
